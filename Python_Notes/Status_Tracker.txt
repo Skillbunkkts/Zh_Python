@@ -1,0 +1,48 @@
+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- pyda pat tocken
+
+==========================================================
+# Data Analysis With GenAi (8:00 Am IST -  To 9:00 Am IST)
+==========================
+
+1. Introduction to Python - Completed
+	1. What is Programming
+	2. Installation Of Python
+	3. creating virtual Environment
+	4. Installtining required libraries(Jupyter notebook,....)
+	5. How to open jupyter notebook
+	6. Introduction to Jupyter notebook& Shortcuts
+	7. Introduction to Python (History)
+	8. Compiler vs Interpreter - Doubt Arised
+	9. basic Interview Questions.
+
+2. Variables and Data types
+	1. What is variable?
+	2. Best practices fro naming variables
+	3. Assigning values to variable
+	4. Fundamental data types (int, float, bool, str, complex)
+	5. Truth tables (AND, OR, NOT)
+	6. String manipulation methods
+	7. type(), print(), len(),id(), int(),float(), str(), bool()
+	8. Type conversion int(),float(), str(), bool()
+	9. Indexing- +ve indexing, -ve indexing, index(), nested indexing
+	10. list, tuple, set, dictionary 
+	11. Bse conversions - int - decimal, binary, octal , Hexa decimal
+	12. Interview Questions
+	
+3. basic Operations:
+	1. Arthmetic Operations
+	2. comparision operators
+	3. Logical Operators
+	4. Assignment Operators
+	5. Interview Questions
+	
+4. Strings
+	1. How to define a string
+	2. indexing
+	3. String methods
+	
+5. Lists
+	1. How to create a list& its behaviors
+	2. indexing on list
+	3. list operatons (type(),len(),id(),membership(in, not in)	
+	4. list Methods
